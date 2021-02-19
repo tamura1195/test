@@ -1,1 +1,1 @@
-https://tamura1195.github.io/
+https://tamura1195.github.io/test/
